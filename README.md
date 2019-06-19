@@ -14,3 +14,9 @@ Screenshots:
 ![Topic screen](https://user-images.githubusercontent.com/19401826/59702680-dbbbd780-9215-11e9-861d-74964f5c82d5.png)
 ![MCQ Screen](https://user-images.githubusercontent.com/19401826/59702712-f1c99800-9215-11e9-89bc-abda298b9cdf.png)
 ![Summary Screen](https://user-images.githubusercontent.com/19401826/59702752-132a8400-9216-11e9-8d83-89ba0c3506a4.png)
+
+Built by -
+1. Leena Bhandari
+2. Atharva Khare
+3. Mrunmai Patil
+4. Aishwarya Darandale
